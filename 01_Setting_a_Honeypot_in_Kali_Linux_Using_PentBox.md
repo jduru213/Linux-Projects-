@@ -17,11 +17,11 @@ By configuring it this way, we can gather detailed information about various att
 
 2. Once in your root account, open Chrome on your web browser and paste the link below, then  clone the repository code 
    
-# Original code by Technical Dada
-# Source: https://github.com/technicaldada/pentbox
+### Original code by Technical Dada
+### Source: https://github.com/technicaldada/pentbox
 
-![image](https://github.com/jduru213/Linux-Projects-/assets/112328773/314589a6-c1f0-4842-acab-9b4fb7f5399b)
-![image](https://github.com/jduru213/Linux-Projects-/assets/112328773/db599b7c-cf33-4141-bb73-96de849f6156)
+[image1](https://raw.githubusercontent.com/jduru213/Linux-Projects-/main/assets/112328773/314589a6-c1f0-4842-acab-9b4fb7f5399b.jpg =300x)
+[image2](https://raw.githubusercontent.com/jduru213/Linux-Projects-/main/assets/112328773/db599b7c-cf33-4141-bb73-96de849f6156.jpg =300x)
 
 ### Step 1: Cloning the code into terminal 
 - Next, in your terminal use the "ls" command to find folders and the "cd" command to navigate and open the folder you would like to use. 
