@@ -11,7 +11,7 @@ This repository is a collection of hands-on projects tailored for Linux enthusia
 ### 1. Setting up a Honeypot in Kali Linux using Pentbox
 
 **Description:**
-- Learn how to set up a honeypot using Pentbox in Kali Linux, creating a decoy system to attract and analyze malicious activity.
+- Setting up a honeypot using Pentbox in Kali Linux, creating a decoy system to attract and analyze malicious activity.
 
 **Resources Used:**
 - Kali Linux as the host OS
