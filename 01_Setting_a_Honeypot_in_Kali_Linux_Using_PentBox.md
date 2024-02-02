@@ -77,7 +77,7 @@ Two other options should appear stating either: Fast Auto Configuration or Manua
 
 - Should bring you to a page stating the Access was denied and the IP address login failed 
   
-  ![image](https://github.com/jduru213/Linux-Projects-/assets/112328773/d5b75f6c-cda9-41e0-9b3c-344cab4c4366)
+ ![image](https://github.com/jduru213/Linux-Projects-/assets/112328773/d5b75f6c-cda9-41e0-9b3c-344cab4c4366)
 
 - Now let's go now and check our honeypot. You should see an IDS (Intrusion Detection System)  message alerting you about the attempt, the port it is operating on, and the IP address it's coming from.
 
@@ -90,7 +90,8 @@ Let's test it out from outside the server using Parrot OS by pinging the IP addr
 * Note: If you don't have Parrot OS, you can still use your regular web browser
 
 1. Pinging our IP addresses
-   Purpose - Pinging the IP address of your honeypot on Parrot OS is crucial to ensure basic network connectivity. It helps verify reachability, validate network configuration, and serves as an initial test to check if the honeypot responds to basic requests. 
+
+Purpose - Pinging the IP address of your honeypot on Parrot OS is crucial to ensure basic network connectivity. It helps verify reachability, validate network configuration, and serves as an initial test to check if the honeypot responds to basic requests. 
    
  ![image](https://github.com/jduru213/Linux-Projects-/assets/112328773/253f82c4-5d7c-4a1d-b012-44b143ef2ae0)
  * Enter ctrl C to fast-forward the purpose 
@@ -107,11 +108,25 @@ Let's test it out from outside the server using Parrot OS by pinging the IP addr
 
 ![image](https://github.com/jduru213/Linux-Projects-/assets/112328773/4526aaa5-2db1-4605-8b66-e8bbba9c5f49)
 
+## Step 7: Manual Configuration 
+Now lets say that we decide to mually confgure our honeypot. 
 
+- Enter the port number you would like, I personally decided to use port 23 (telnet)
+- Insert a false mesage you will like to display after dectection
+- Save the log file
 
+ - Here is my example:
+![image](https://github.com/jduru213/Linux-Projects-/assets/112328773/c95ddb71-e39b-4187-b653-3bf3a9d1ea54)
 
+- Since we are using port 23 which is telnet enter the following into your operating system 
+* Note: The same IP address you obtained on your kali linux server, copy and paste it 
 
+![image](https://github.com/jduru213/Linux-Projects-/assets/112328773/3090d6a5-c408-4457-a0de-e7375840d5af)
 
+- Now if we go back to our honeypot set on Kali linux, you should see an dectection alert 
+![image](https://github.com/jduru213/Linux-Projects-/assets/112328773/04760bfd-5545-4b79-bdbc-debc37bb8cd4)
 
+## Conclusion: 
 
+- Setting up a honeypot on Kali Linux using PentBox was quite useful for me as a student. It provided a hands-on opportunity to apply academic knowledge in a real-world cybersecurity scenario. Configuring the honeypot provided me with useful insights into the complexity of building a simulated environment that attracts and monitors potential cyber threats. 
 
