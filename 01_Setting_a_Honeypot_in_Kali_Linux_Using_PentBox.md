@@ -17,8 +17,8 @@ By configuring it this way, we can gather detailed information about various att
 
 2. Once in your root account, open Chrome on your web browser and paste the link below, then clone the repository code
 
-# Original code by Technical Dada
-# Source: https://github.com/technicaldada/pentbox
+###### Original code by Technical Dada
+###### Source: https://github.com/technicaldada/pentbox
 
 ![image](https://github.com/jduru213/Linux-Projects-/assets/112328773/1c7064bf-3a7f-4d37-8afe-47b2f6acbcac)
 
