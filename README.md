@@ -1,6 +1,6 @@
 ## Project Overview: Linux-Projects
 
-This repository is a collection of hands-on projects tailored for Linux enthusiasts. Explore and deepen your understanding of Linux by engaging with practical projects covering a wide range of topics, from system configuration to security and more.
+This repository is a collection of hands-on projects tailored to explore and sharpen my understanding of Linux by engaging with practical projects covering a wide range of topics, from system configuration to security and more.
 
 ## Project list
 
