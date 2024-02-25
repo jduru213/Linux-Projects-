@@ -4,7 +4,7 @@ This repository is a collection of hands-on projects tailored to explore and sha
 
 ## Project list
 
-1. [Setting up a Honeypot in Kali Linux using Pentbox](#)
+1. [Setting up a Honeypot in Kali Linux using Pentbox](https://github.com/jduru213/Linux-Projects-/blob/50508f9021b3cb05d73bcded2693c2b0532c751e/01_Setting_a_Honeypot_in_Kali_Linux_Using_PentBox.md)
 2. [Vulnerbaitly Scanning Using Tenable Nessus](#)
 
 ## Project Details
